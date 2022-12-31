@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831702298021",
+    "project_id": "btsignal-f8f1c",
+    "storage_bucket": "btsignal-f8f1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831702298021:android:b72314b57b7d72759a0c4c",
+        "android_client_info": {
+          "package_name": "com.btsignal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831702298021-qsetvdnu46oj61dh49ooqijb2l4ev7vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG_8AJPbKTwAfXZ36toJm2JKxhRhxg2Ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831702298021-qsetvdnu46oj61dh49ooqijb2l4ev7vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

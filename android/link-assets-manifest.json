@@ -1,0 +1,57 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/BarlowCondensed Bold.ttf",
+      "sha1": "217e75dbb9823201371e37df31f9b6d10132530f"
+    },
+    {
+      "path": "assets/fonts/BarlowCondensed Regular.ttf",
+      "sha1": "497f11cdedc48cbc8ad4ff9b164f4e2c5ebce397"
+    },
+    {
+      "path": "assets/fonts/BrittanySignature.ttf",
+      "sha1": "c970fed93a57e8fefec6a300303a76f1c59a9d55"
+    },
+    {
+      "path": "assets/fonts/Cairo Bold.ttf",
+      "sha1": "6dac25c73733d4b438ff20c0600b949869f68abe"
+    },
+    {
+      "path": "assets/fonts/Cairo Regular.ttf",
+      "sha1": "7f50e98da0a358926cc8f0546489c8ced5e96bbf"
+    },
+    {
+      "path": "assets/fonts/commando.ttf",
+      "sha1": "5d99db99d2a4c8d98b112fab9b5b655ec2f6f511"
+    },
+    {
+      "path": "assets/fonts/Darcey Oliver.ttf",
+      "sha1": "cb3baf6153ad976e237a4524a48f00e706226869"
+    },
+    {
+      "path": "assets/fonts/Fontjek.ttf",
+      "sha1": "a93dc08dda9610ddfcbc1eabbf5373253d3140d7"
+    },
+    {
+      "path": "assets/fonts/Mulish Bold.ttf",
+      "sha1": "081709d53ef238523c257d2544571efa55281552"
+    },
+    {
+      "path": "assets/fonts/Mulish Italic.ttf",
+      "sha1": "1c83c5c05fc3545f1d72176fb26c68171fd2bd11"
+    },
+    {
+      "path": "assets/fonts/Mulish Light.ttf",
+      "sha1": "32ff0d01c3ac36149f1ecf29975b6bb0fd895f99"
+    },
+    {
+      "path": "assets/fonts/Mulish Regular.ttf",
+      "sha1": "89a41f5264672d2d1c11768d8a5325adeee0cfa3"
+    },
+    {
+      "path": "assets/fonts/Thank You.ttf",
+      "sha1": "f7970d5fbca2aab284e55908ba73637e32f71b80"
+    }
+  ]
+}
